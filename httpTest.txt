@@ -1,8 +1,13 @@
 branch1
 
+<<<<<<< HEAD
 master
 commit 1
 
+=======
+test2
+
+>>>>>>> branch1
 
  nodflsdf
 dsf
